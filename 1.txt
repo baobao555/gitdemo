@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 master分支修改1.txt
 =======
 dev分支修改了1.txt
+>>>>>>> dev
+=======
+dev分支
 >>>>>>> dev
